@@ -1,0 +1,133 @@
+{
+  "_help": "Edit this file to update the portfolio, then run publish.cmd (or: node build.js). Keep the JSON valid: text in double quotes, commas between items.",
+
+  "name": "Huzzatul Jannat Shethil",
+  "shortName": "Shethil",
+  "credentials": "CSE, UIU",
+  "role": "UI/UX Designer",
+  "degree": "B.Sc. in Computer Science & Engineering, United International University",
+  "tagline": "I design user-centered, accessible and visually compelling digital experiences for web and mobile.",
+  "openTo": "Open to UI/UX design roles & collaborations",
+  "location": "Dhaka, Bangladesh",
+  "email": "huzzatuljannat823@gmail.com",
+  "phone": "+880 1774-587694",
+  "photo": "images/profile.jpg",
+  "cvPdf": "Huzzatul-Jannat-Shethil-CV.pdf",
+  "siteUrl": "https://huzzatul-jannat-shethil.vercel.app",
+
+  "rotatingWords": ["user-centered", "accessible", "responsive", "intuitive", "delightful"],
+
+  "about": [
+    "I am a motivated and creative UI/UX designer with a Computer Science & Engineering degree from United International University. I am committed to creating user-centered, accessible and visually compelling digital experiences.",
+    "I bring a solid understanding of design principles, a strategic approach to problem-solving and a keen interest in user behaviour and interaction. As a fast learner with a proactive mindset, I keep growing through practical experience and continuous development.",
+    "My background in engineering helps me work closely with developers, and my client-facing experience gives me strong empathy for the people I design for."
+  ],
+
+  "highlights": [
+    { "value": "2", "label": "Industry roles" },
+    { "value": "1", "label": "Award-winning project" },
+    { "value": "B.Sc.", "label": "Computer Science & Engineering" },
+    { "value": "Figma", "label": "Primary design tool" }
+  ],
+
+  "process": [
+    { "step": "01", "title": "Understand", "text": "UX research and client conversations to uncover user needs, pain points and business goals." },
+    { "step": "02", "title": "Map", "text": "User flows and information architecture that make every journey clear and simple." },
+    { "step": "03", "title": "Wireframe", "text": "Low-fidelity layouts to explore structure and hierarchy quickly before visual detail." },
+    { "step": "04", "title": "Design", "text": "High-fidelity, responsive UI built on design systems for visual consistency and accessibility." },
+    { "step": "05", "title": "Prototype", "text": "Interactive prototypes in Figma to test interactions and communicate the experience." },
+    { "step": "06", "title": "Deliver", "text": "Close collaboration with developers and stakeholders to ship functional, intuitive products." }
+  ],
+
+  "skills": [
+    { "group": "Design Tools", "icon": "pen", "items": ["Figma", "Canva"] },
+    { "group": "Prototyping", "icon": "layers", "items": ["High-fidelity designs", "Interactive prototypes", "User flows", "Wireframes"] },
+    { "group": "Design Skills", "icon": "eye", "items": ["UI/UX design", "Accessibility", "Responsive design", "Interaction design", "UX research"] },
+    { "group": "Workflow", "icon": "flow", "items": ["Agile", "Design systems", "Git"] },
+    { "group": "Basic Knowledge", "icon": "code", "items": ["C", "HTML", "CSS"] },
+    { "group": "Productivity Tools", "icon": "grid", "items": ["Excel", "Word", "PowerPoint"] }
+  ],
+
+  "strengths": [
+    "Strong user empathy from client interactions",
+    "Clear and effective communication",
+    "Detail-oriented with a focus on quality",
+    "Creative problem solver",
+    "Fast learner and adaptable",
+    "Experienced in teamwork and collaboration",
+    "Good time management, balancing work and learning",
+    "Confident presenting ideas and designs"
+  ],
+
+  "experience": [
+    {
+      "role": "Junior UI/UX Designer",
+      "org": "Softvence Delta",
+      "period": "Oct 2025 – Jun 2026",
+      "points": [
+        "Designed user-centered web and mobile interfaces using Figma, focusing on usability and visual consistency.",
+        "Created user flows, wireframes, prototypes and high-fidelity UI designs.",
+        "Applied UX research, interaction design, design systems and responsive design to improve user experiences.",
+        "Collaborated with developers and stakeholders to deliver functional, intuitive digital products."
+      ]
+    },
+    {
+      "role": "Sales Executive",
+      "org": "Join Venture AI (JVAI)",
+      "period": "Mar 2025 – Aug 2025",
+      "points": [
+        "Engaged with clients to identify needs, understand pain points and deliver tailored solutions aligned with business goals.",
+        "Collaborated with technical teams to translate client requirements into clear, actionable solutions and ensure smooth project delivery."
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "UniVerseHub",
+      "subtitle": "An integrated platform for Bangladeshi university students",
+      "type": "CSE Project · United International University",
+      "period": "May 2024 – Oct 2024",
+      "award": "Best CSE Project Prize",
+      "role": "UI/UX design lead & front-end",
+      "tools": ["Figma", "UI/UX design", "Responsive front-end"],
+      "description": "UniVerseHub brings together AI-powered academic assistance, mental health resources and productivity tools in one place for Bangladeshi university students. I led the UI/UX design process in Figma and implemented responsive, user-friendly front-end components to deliver a seamless digital experience.",
+      "features": [
+        { "title": "AI-powered academic assistance", "text": "Academic support powered by AI." },
+        { "title": "Mental health resources", "text": "Access to mental health resources in one place." },
+        { "title": "Productivity tools", "text": "Tools to help students stay productive." }
+      ],
+      "links": []
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "Bachelor of Computer Science and Engineering",
+      "institution": "United International University (UIU)",
+      "location": "Dhaka, Bangladesh",
+      "period": "2019 – 2024",
+      "details": ["CGPA: 3.27 / 4.00", "Final Year Design Project: UniVerseHub — winner of the Best CSE Project Prize"]
+    }
+  ],
+
+  "achievements": [
+    { "title": "Best CSE Project Prize", "text": "Awarded for UniVerseHub at United International University." },
+    { "title": "Final Year Design Project", "text": "Successfully completed the Final Year Design Project." }
+  ],
+
+  "certificates": [],
+
+  "profiles": {
+    "_help": "Replace each default homepage link with your own profile URL when you create the account.",
+    "list": [
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/huzzatul-jannat-029490339/", "icon": "linkedin" },
+      { "name": "Behance", "url": "https://www.behance.net/", "icon": "behance" },
+      { "name": "Dribbble", "url": "https://dribbble.com/", "icon": "dribbble" },
+      { "name": "Figma Community", "url": "https://www.figma.com/community", "icon": "figma" },
+      { "name": "GitHub", "url": "https://github.com/", "icon": "github" },
+      { "name": "Medium", "url": "https://medium.com/", "icon": "medium" },
+      { "name": "Instagram", "url": "https://www.instagram.com/", "icon": "instagram" }
+    ]
+  }
+}
